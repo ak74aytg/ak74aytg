@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **pantakshay00@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oklUjM1MiWEUY08QNelKObOm19XEPP3_/view?usp=share_link](https://drive.google.com/file/d/1oklUjM1MiWEUY08QNelKObOm19XEPP3_/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oklUjM1MiWEUY08QNelKObOm19XEPP3_/view?usp=share_link](https://drive.google.com/file/d/1pmRofYkJXxD7C6xQ-DVBXJjT8sHL-tj4/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
