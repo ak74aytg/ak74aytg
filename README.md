@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Pant</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Kubernetes, Jenkins, Redis**
+- 🌱 I’m currently learning **Kubernetes, Jenkins, NLP**
 
 - 💬 Ask me about **spring boot**
 
