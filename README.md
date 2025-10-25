@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Pant</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🌱 I’m currently learning **Deep Learning, NLP**
-
-- 💬 Ask me about **spring boot**
+- 💬 Ask me about **django**
 
 - 📫 How to reach me **pantakshay00@gmail.com**
 
