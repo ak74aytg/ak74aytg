@@ -94,29 +94,6 @@ My repositories range from CSS experiments to document processing, multilingual 
   <b>Data:</b> MongoDB · MySQL · Redis · SQLite
 </p>
 
-### 📊 By the numbers
-
-<p align="center">
-  <a href="https://github.com/ak74aytg?tab=repositories"> 
-    <img src="./assets/stats.svg" width="100%" alt="Public repository count and primary language distribution; update date shown on the card" />
-  </a>
-  <a href="https://github.com/ak74aytg?tab=overview">
-    <img src="./assets/activity.svg" width="100%" alt="A year of GitHub contributions: total contributions, active days, busiest day, and contribution heatmap" />
-  </a>
-</p>
-
-<details>
-<summary><b>🔎 What do these numbers mean?</b></summary>
-
-<br />
-
-- **Repository mix:** each public repository is counted once using GitHub's primary language. This shows the shape of my projects, not proficiency or time spent coding.
-- **Contributions:** GitHub's contribution calendar for the past year; contributions include more than commits.
-- **Active days:** days with at least one contribution in that period.
-- **Freshness:** the cards show their update date and refresh daily through GitHub Actions. If a refresh fails, the last successful images stay visible.
-
-</details>
-
 ### 🎮 Side quests
 
 - **Practice arena:** [Data structures & algorithms in Java](https://github.com/ak74aytg/Data-Structure-and-Algorith-with-Java) · [Contest solutions](https://github.com/ak74aytg/contests) · [LeetCode](https://leetcode.com/ak74ay/)
